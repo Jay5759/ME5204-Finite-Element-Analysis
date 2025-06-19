@@ -5,7 +5,6 @@ This course introduces the mathematical principles and computational techniques 
 
 - Interpolation theory and numerical quadratures
 - Theory of elasticity and boundary value problems
-- Principle of Virtual Work
 - Implementation of finite element algorithms in Python
 - Application of FEM to engineering scenarios
 
