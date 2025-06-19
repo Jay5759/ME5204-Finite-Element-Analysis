@@ -16,5 +16,3 @@ This repository contains:
 - **Assignments**: Solutions to all course assignments
 - **Project**: Final project demonstrating FEM applications
 - **Supporting Code**: Python scripts and Jupyter notebooks
-
-## Folder Structure
